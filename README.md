@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [puturangga21.github.io](puturangga21.github.io)
+- 👨‍💻 All of my projects are available at [puturangga21.github.io](https://puturangga21.github.io/)
 
 - 💬 Ask me about **PHP, Javascript, UI/UX**
 
