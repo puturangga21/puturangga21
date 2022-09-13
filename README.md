@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Putu Rangga</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pixel-art-cute-mizkai-fcx0esza21kiawt6.webp">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c3ff12f2ba51850b4c0df5351a59039e/179cbc182229c39c-c3/s1280x1920/53fe46342441855688021b7fc2ac1004d74ff0f1.gif">
 
 <p align="left"> <a href="https://twitter.com/puturangga21" target="blank"><img src="https://img.shields.io/twitter/follow/puturangga21?logo=twitter&style=for-the-badge" alt="puturangga21" /></a> </p>
 
